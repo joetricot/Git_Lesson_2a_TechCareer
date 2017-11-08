@@ -32,7 +32,7 @@ There's a lot of terminology involved in git. There's a lot of terminology invol
 
 ## Git Basics
 
-### Initializing a git repo (instructor demo)
+### Initializing a git repo
 
 Create a folder on your desktop called `TC_Git_Practice` using the `mkdir` command
 
@@ -42,7 +42,7 @@ You can turn any directory into a git repository by running the command `git ini
 
 Everything we do, that is, any changes we make to the files in `test1` can now be tracked by git. `test1` is a git repo, sometimes you'll hear it referred to as the working directory.
 
-###  Creating a file in the repo, making some changes, and committing them (instructor demo)
+###  Creating a file in the repo, making some changes, and committing them
 
 We can create a new file in `test1` by running `touch newfile1.txt`. Make sure you're still in the `test1` directory first.
 
@@ -64,7 +64,7 @@ You can add everything that's been changed since the last commit by using the pe
 6. Commit the files
 7. Repeat steps 3-4, in between each step run `git status` and `git log`. Try to summarize in a sentence what those two commands are doing.
 
-## Pushing a repo to GitHub (instructor demo)
+## Pushing a repo to GitHub
 
 Create a new repo on [GitHub](https://help.github.com/articles/create-a-repo/)
 
