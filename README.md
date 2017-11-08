@@ -1,4 +1,4 @@
-# Git_Lesson_2a_TechCareer
+# Git & GitHub
 
 ![Rick&Morty](https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif)
 
@@ -123,7 +123,7 @@ This page you're looking at now was written in Markdown language.
 
 1. [Git Cheat Sheet # 1](https://www.git-tower.com/blog/git-cheat-sheet/)
 2. [Git Cheat Sheet # 2](http://alvinalexander.com/git/git-cheat-sheet-git-reference-commands)
-3. [Markdown Cheat Sheet] https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+3. [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Important Terms:
 
