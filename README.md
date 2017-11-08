@@ -1,13 +1,15 @@
 # Git_Lesson_2a_TechCareer
 
-! [Git](https://qph.ec.quoracdn.net/main-qimg-3aa29f29ede6a8245b6964f663c60339)
+![Rick&Morty](https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif)
 
-## Pre-requisites
+
+## Pre-requisites 🤘🏾 ✔️
 
 - Have a Github/Github account.
-- Speak a little English.
+- Have Git Bash installed.
+- Speak a little English 😀
 
-## Objectives
+## Objectives 🚀
 
 1. Take a deep breath.
 2. Be able to navigate through the command line.
@@ -107,7 +109,9 @@ Good: Fixed mobile navbar.
 
 If your repo has a readme.md then GitHub will display it on the repo's homepage.
 
-[Everything you need to know about markdown.](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+This page you're looking at now was written in Markdown language.
+
+[Everything you need to know about Markdown.](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## Conclusion (5 mins)
 - Repeat once again: 'I will not clone a repo in a repo'
@@ -119,7 +123,7 @@ If your repo has a readme.md then GitHub will display it on the repo's homepage.
 
 1. [Git Cheat Sheet # 1](https://www.git-tower.com/blog/git-cheat-sheet/)
 2. [Git Cheat Sheet # 2](http://alvinalexander.com/git/git-cheat-sheet-git-reference-commands)
-
+3. [Markdown Cheat Sheet] https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## Important Terms:
 
